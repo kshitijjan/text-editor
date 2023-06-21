@@ -145,25 +145,6 @@ void MainWindow::on_actionSubscript_triggered()
 }
 
 
-void MainWindow::on_actionpdf_triggered()
-{
-    QString filePath = ":/pdf/resources/kshitij-resume.txt";
-
-    QFile file(filePath);
-    if (file.open(QIODevice::ReadOnly | QIODevice::Text)) {
-        QTextStream stream(&file);
-        QString fileContent = stream.readAll();
-
-        // Display the content in a QTextEdit widget
-        ui->textEdit->setPlainText(fileContent);
-
-        file.close();
-    } else {
-        QMessageBox::warning(this, "Error", "Failed to open the text file.");
-    }
-}
-
-
 void MainWindow::on_actionAbout_Me_triggered()
 {
     QString filePath = ":/pdf/resources/kshitij-resume-updated.txt";
@@ -172,7 +153,6 @@ void MainWindow::on_actionAbout_Me_triggered()
         QTextStream stream(&file);
         QString fileContent = stream.readAll();
 
-        // Display the content in a QTextEdit widget
         ui->textEdit->setPlainText(fileContent);
 
         file.close();

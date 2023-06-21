@@ -42,7 +42,6 @@ private slots:
 
     void on_actionAbout_Me_triggered();
 
-    void on_actionpdf_triggered();
 
 private:
     Ui::MainWindow *ui;
