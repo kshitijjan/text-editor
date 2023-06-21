@@ -14,6 +14,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
 
     ui->setupUi(this);
+    this->setCentralWidget(ui->textEdit);
     isBold = false;
     isSuperscript = false;
     isSubscript = false;
