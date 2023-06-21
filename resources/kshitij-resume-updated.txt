@@ -1,0 +1,75 @@
+
+
+//Please reference PDF resumé located in resources folder of this project for proper syntax.
+
+
+Kshitij Jain     				kshitiz.jain636@gmail.com                                        
+                				+91 9509373114
+                				Kota
+
+
+
+
+EDUCATION                                       Bachelor of Technology (B.Tech), 
+						Computer Science & Engineering
+						Jaypee University of Engineering & Technology
+						2021 - 2025
+
+
+
+
+
+
+POSITIONS OF
+RESPONSIBILITY                                1. In my freshmen year I with my seniors 
+						conducted a workshop for Google
+						Developer Student Club which was
+						attended by more than 300 students.
+					      2 . In my 2nd semester, I took part in my college 
+					    	hackathon and my team came at 10th position 
+						and we were awarded.
+	
+
+
+
+TRAININGS                                        HTML5/CSS
+							YouTube, Online
+							Feb 2022 - Apr 2022
+						 C++
+							Udemy, Online
+							Aug 2021 - Jan 2022
+
+						 Data Structures And Algorithms
+							Udemy, Online
+							Mar 2021 - May 2022
+
+
+PROJECTS                                        ToDo Application
+							https://github.com/kshitijjan/ToDoo
+						ToDo application made using JAVA and Android Studio. One can add tasks and once completed
+						the task can be checked marked (completed) and the task will go at the bottom in the completed section 
+
+
+
+
+SKILLS                      			C++ Programming                             Golang
+				
+						CSS                                         Algorithms
+
+						C Programming                         	    HTML
+
+						Data Structures                             Python
+
+						Git                                         GitHub
+
+
+
+
+WORK SAMPLES                                    GitHub profile
+						https://github.com/kshitijjan
+
+
+ADDITIONAL ACHIEVEMENTS
+	1. Secured 10th position in a hackathon conducted by my college.
+	2. Selected by the college in SIH (Smart India Hackathon) conducted by the Government of India. Made a website as per our problem statement.
+	Link: https://bighero6.netlify.app/
